@@ -1,7 +1,7 @@
 #!/bin/bash
 
 string_a="ISHAAN"
-string_b="AASHIRYA"
+string_b="DHARMIK"
 
 echo "Are $string_a and $string_b strings are equal?"
 [ $string_a = $string_b ]
